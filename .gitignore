@@ -1,0 +1,13 @@
+# Ignore cloned companion repo for the book
+learnjava6e/
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Other stuff I specified
+.project
+.settings/
+kls_database.db
